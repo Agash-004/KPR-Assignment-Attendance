@@ -2,5 +2,5 @@
 
 | Registration No | Name   | Department    |
 | :---:   | :---: | :---: |
-| 1214214 | Santhosh NC   | CSE   |
+| 1214214 | Santhosh NC   | CSE  |
 | 22cb004 | Agash V   | CSBS   |
